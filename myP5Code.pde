@@ -8,11 +8,11 @@ void setup() {
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
   fill(255,255,255);
-  strokeWeight(1);
+  strokeWeight(3);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
+ellipse(200,220,200,150)
   
 
 }
