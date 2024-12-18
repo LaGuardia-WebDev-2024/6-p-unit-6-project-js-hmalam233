@@ -12,8 +12,13 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-ellipse(200,200,300,270);
-ellipse(190,200,200,200);
+  fill(82, 208, 45);
+ellipse(200,200,350,300);
+ellipse(190,200,150,150);
+ellipse(300,150,75,96);
+ellipse(70,160,65,96);
+ellipse(160,190,40,80);
+ellipse(220,200,50,70)
 
 
 
