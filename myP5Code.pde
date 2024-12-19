@@ -12,13 +12,21 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-  fill(82, 208, 45);
+ 
+  fill(74, 193, 30);
 ellipse(200,200,350,300);
 ellipse(190,200,150,150);
+fill(255, 255, 255)
 ellipse(300,150,75,96);
+fill(255, 255, 255)
 ellipse(70,160,65,96);
+stroke(55, 130, 50)
+fill(59, 82, 57);
+
 ellipse(160,190,40,80);
-ellipse(220,200,50,70)
+stroke(0,0,0)
+fill(59, 82, 57)
+ellipse(220,200,50,70);
 
 
 
