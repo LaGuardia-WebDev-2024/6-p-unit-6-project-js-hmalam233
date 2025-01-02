@@ -13,7 +13,7 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
  
-  fill(74, 193, 30);
+  fill(95, 205, 40);
 ellipse(200,200,350,300);
 ellipse(190,200,150,150);
 fill(255, 255, 255)
@@ -22,6 +22,8 @@ fill(255, 255, 255)
 ellipse(70,160,65,96);
 stroke(55, 130, 50)
 fill(59, 82, 57);
+ellipse(60,160,20,20)
+ellipse(320,150,20,20)
 
 ellipse(160,190,40,80);
 stroke(0,0,0)
