@@ -1,16 +1,12 @@
  body {
-  background-image: url("https://img.freepik.com/premium-vector/cute-blue-checkerboard-tartan-gingham-plaid-checkered-pattern-background-perfect-wallpaper_565280-363.jpg");
-  text-align: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-image: radial-gradient(blue, pink);
   background-attachment: fixed; 
   margin-top: 10%;
-}
+  width: 58%;
+  margin: auto; 
+}  
+     
 
-html{
-  height: 100%;
-  width: 100%;
-}
 
 #myCanvas {
   border-radius: 30px;
